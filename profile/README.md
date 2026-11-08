@@ -1,4 +1,7 @@
-# OATS: Open Annotation Task Schemas
+<h1 align="center">
+  <a href="https://oatschema.org"><img src="https://oatschema.org/_static/img/oats-mark.svg" alt="" height="32" align="top"></a>
+  OATS: Open Annotation Task Schemas
+</h1>
 
 Strict, versioned JSON Schemas for model outputs and annotation tasks, with validators for Python and JavaScript and the schemas bundled for Rust.
 
